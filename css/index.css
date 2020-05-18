@@ -1,0 +1,24 @@
+.hedercolor{
+background-color: rgb(252, 0, 0);
+height: 100px;
+}
+.bgcolornav{
+ background-color: rgb(252, 0, 0);
+}
+.navbarbutton{
+color: aliceblue; 
+font-size: 1.5vmax;   
+}
+
+.logocolor{
+ color: rgb(255, 255, 255);
+ font-size: 3vw;
+}
+.navbar-light{
+ background-color: aliceblue;
+}
+
+
+body{
+    margin: 0;
+}
