@@ -2,6 +2,10 @@
 background-color: rgb(252, 0, 0);
 height: 100px;
 }
+.custom-switch {  /* darkmode */
+    padding-left: 47%;
+    color: #ffffff;
+}
 .bgcolornav{
  background-color: rgb(252, 0, 0);
 }
@@ -22,8 +26,7 @@ font-size: 1.5vmax;
 #section1{
     background-color: black;
 }
-
-
 body{
     margin: 0;
 }
+
